@@ -13,14 +13,20 @@ Contact: [cs21resch01004@iith.ac.in Email], [https://www.linkedin.com/in/kanchet
 == Short Bio 
 I am a second year Ph.D. student at Indian Institute of Technology Hyderabad. I have a dual-degree (Bachelors and Masters) in CSE from Indian Institute of Technology Madras.
 I am adivsed by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. You can find my (infrequently updated) CV [https://drive.google.com/file/d/1eoCSLUVzZRfk8PzbYJSrf4FZThNXnl7y/view?usp=sharing here].
-== News 
+== News
+- \[15-05-2022\] Our work titled *Matching Learned Causal Effects of Neural Networks with Domain Priors* has been accepted for a short presentation at [https://icml.cc/Conferences/2022 ICML22] 
 - \[27-05-2021\] Selected as a [https://www.pmrf.in/ Prime Minister Research Fellow] in the December 2020 cycle
 == Education 
 - PhD, Department of CSE, Indian Institute of Technology Hyderabad, Telangana, India, Jan. 2021- Present
 - Dual-Degree (BTech & MTech), Department of CSE, Indian Institute of Technology Madras, Tamil Nadu, India, July. 2013- July. 2019
 == Research Interests 
 - Algorithmic Recourse
+- Decision making under strategic behavior
 - Causality in machine learning
 - Interpretable ML
 == Publications
-[https://scholar.google.com/citations?user=JJP7dOsAAAAJ&hl=en Here] is my Google-Scholar
+[https://scholar.google.com/citations?user=JJP7dOsAAAAJ&hl=en Here] is my Google-Scholar \n
+
+- \[2022\] Matching Learned Causal Effects of Neural Networks with Domain Priors -- K. Sai Srinivas\*, A. Gowtham Reddy\*, V. Balasubramanian, Amit Sharma, Proceedings of International Conference on Machine Learning (ICML'22), July 2022 \n [https://arxiv.org/abs/2111.12490 arxiv]
+- \[2021\] Instance-wise Causal Feature Selection for Model Interpretation -- Pranoy Panda, K. Sai Srinivas, V. Balasubramanian, Causality in Vision Workshop @CVPR2021, June 2021 \n [https://arxiv.org/abs/2104.12759 arxiv]
+- \[2021\] Beyond VQA: Generating multi-word Answers and Rationale to Visual Questions -- K. Sai Srinivas\*, Radhika Dua\*, V. Balasubramanian, 4th Multimodal Learning and Applications Workshop @CVPR2021, June 2021 \n [https://arxiv.org/abs/2010.12852 arxiv] [https://radhikadua123.github.io/ViQAR/ webpage]
