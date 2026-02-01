@@ -1,51 +1,52 @@
 # jemdoc: menu{MENU}{index.html}
-= Kancheti Sai Srinivas 
+= Kancheti Sai Srinivas
 
 ~~~
 {}{img_left}{websitepic.jpg}{alt text}{244.8px}{244.8px}{}
 Kancheti Sai Srinivas \n
-Ph.D. Student \n 
+Ph.D. Student (PMRF Scholar) \n
 [https://cse.iith.ac.in/ Department of Computer Science and Engineering] \n
-[https://iith.ac.in/ Indian Institute of Technology Hyderabad]  \n
-Contact: [cs21resch01004@iith.ac.in Email], [https://www.linkedin.com/in/kancheti-sai-srinivas/ Linkedin], [https://github.com/ksais Github]
+[https://iith.ac.in/ Indian Institute of Technology Hyderabad] \n
+Contact: [cs21resch01004@iith.ac.in Email], (+91) 9003107318, [https://scholar.google.com/citations?user=JJP7dOsAAAAJ&hl=en Google Scholar], [https://www.linkedin.com/in/kancheti-sai-srinivas/ LinkedIn]
 ~~~
 
-== Short Bio 
-I am a fifth-year Ph.D. student at Indian Institute of Technology Hyderabad. I have a dual-degree (Bachelors and Masters) in CSE from Indian Institute of Technology Madras.
-I am advised by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. You can find my CV [https://drive.google.com/file/d/1eoCSLUVzZRfk8PzbYJSrf4FZThNXnl7y/view?usp=sharing here].
+== About
+I am a final year Ph.D. student at IIT Hyderabad, advised by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. My research focuses on trustworthy machine learning and on multimodality, with recent work on enhancing visual reasoning in Multimodal Language Models.
+You can find my CV [srinivas_cv_latest2026.pdf here].
+
+== Research Interests
+- Visual reasoning in Multimodal LLMs (spatial reasoning, grounding, RLVR/RL post-training)
+- Human-in-the-loop / preference-aware learning (algorithmic recourse)
+- Robustness, interpretability, and reliability of ML systems
 
 == News
-- \[2025\] Our work titled "Semantic Alignment for Prompt-Tuning in Vision Language Models" has been accepted to TMLR [https://openreview.net/forum?id=avDr56QjSI openreview link]
-- \[2024\] Awarded the Microsoft India Research PhD Award 2024
-- \[2024\] Our work titled "Fine-Grained Visual Recognition in the Age of Multimodal LLMs" was accepted at the NeurIPS 2024 Workshop: Adaptive Foundation Models
-- \[2024\] Presented our work "Interpretable Model Drift Detection" at CODS-COMAD 2024
-- \[2023\] Attended Google Research Week 2023
-- \[2023\] Attended ACML 2023 in Bangalore
-- \[2021\] Selected as a [https://www.pmrf.in/ Prime Minister Research Fellow] in the December 2020 cycle.
-
-== Research Interests 
-- Large Multimodal Models
-- Algorithmic Recourse
-- Interpretable and Trustworthy ML
-- Causality in machine learning
+- \[Feb 2026\] Attenting ACM ARCS 2026 at IIT Hyderabad
+- \[Jul 2025\] Visiting Researcher at Microsoft Research India, Bangalore.
+- \[2024\] Awarded the Microsoft India Research PhD Award.
+- \[Jan 2024\] Presented "Interpretable Model Drift Detection" at CODS-COMAD 2024.
+- \[2021\] Awarded the Prime Minister's Research Fellowship (PMRF), December 2020 cycle.
 
 == Publications
-[https://scholar.google.com/citations?user=JJP7dOsAAAAJ&hl=en Here] is my Google Scholar \n
+[https://scholar.google.com/citations?user=JJP7dOsAAAAJ&hl=en Here] is my Google Scholar\n
 
-- \[2025\] Semantic Alignment for Prompt-Tuning in Vision Language Models -- K. Sai Srinivas\*, Hari Chandana K\*, Gowtham Reddy A, V. Balasubramanian, TMLR 2025 [https://openreview.net/forum?id=avDr56QjSI openreview link]
-- \[2024\] Fine-Grained Visual Recognition in the Age of Multimodal LLMs -- Hari Chandana K, K. Sai Srinivas, Gowtham Reddy A, V. Balasubramanian, NeurIPS 2024 Workshop: Adaptive Foundation Models [https://adaptive-foundation-models.org/ link]
+- \[2025\] Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs -- Hari Chandana K., K. Sai Srinivas, Gowtham Reddy A., Vineeth N. Balasubramanian. Transactions on Machine Learning Research (TMLR), 2025. [https://openreview.net/forum?id=FvA0UMw9X2 OpenReview]
+- \[2025\] HARE: Human-in-the-Loop Algorithmic Recourse -- K. Sai Srinivas\*, Rahul Vigneswaran\*, Bamdev Mishra, Vineeth N. Balasubramanian. Transactions on Machine Learning Research (TMLR), 2025. [https://openreview.net/forum?id=56EBglCFvx OpenReview]
+- \[2025\] Semantic Alignment for Prompt-Tuning in Vision Language Models -- K. Sai Srinivas\*, Hari Chandana K\*, Gowtham Reddy A., Vineeth N. Balasubramanian. Transactions on Machine Learning Research (TMLR), 2025. [https://openreview.net/forum?id=avDr56QjSI OpenReview]
+- \[2025\] Conformal Prediction in the Age of Multimodal Foundation Models: A Survey -- K. Sai Srinivas\*, Christian Stavan\*, Kunal Tilaganji\*, Sai Mathura Krishnan\*, Vineeth N. Balasubramanian. Book chapter submission (2025).
 - \[2024\] Interpretable Model Drift Detection -- Pranoy Panda, K. Sai Srinivas, V. Balasubramanian, Gaurav Sinha, CODS-COMAD '24 [https://dl.acm.org/doi/abs/10.1145/3632410.3632434 link]
-- \[2023\] A Simple Test-time Adaptation Method for Source-free Domain Generalization -- Vaasudev Narayanan, K. Sai Srinivas, Sriranjani Ramakrishnan, V. Balasubramanian, ICLR 2023 Workshop [https://domaingen.github.io/sessions link]
 - \[2022\] Matching Learned Causal Effects of Neural Networks with Domain Priors -- K. Sai Srinivas\*, A. Gowtham Reddy\*, V. Balasubramanian, Amit Sharma, ICML'22 [https://proceedings.mlr.press/v162/kancheti22a link]
 
-== Ongoing Projects
-- \[2025\] Finetuning VLMs under Complex Label Noise – Investigating parameter-efficient methods to adapt large VLMs to downstream tasks while handling noisy labels using the manifold hypothesis.
-- \[2024\] (under review) Human-in-the-Loop Algorithmic Recourse – Developing personalized recourses through iterative preference elicitation.
+=== Preprints / Under Review
+- \[2025\] Visual Spatial Reasoning through RL: Successes, Failures, and Lessons -- K. Sai Srinivas\*, Aditya S. Kanade\*, Rohit Sinha, Tanuja Ganu, Vineeth N. Balasubramanian. (under review) [https://drive.google.com/file/d/19QiaDsOeuN9p4GOzRPZ3Q0comddNB-be/view?usp=sharing link]
+- \[2025\] Do SOTA Multimodal Reasoning Models Exhibit Generalized Spatial Intelligence? -- K. Sai Srinivas\*, Aditya S. Kanade\*, Tanuja Ganu, Vineeth N. Balasubramanian. (under review)
 
-== Education 
-- PhD, Department of CSE, Indian Institute of Technology Hyderabad, Telangana, India, Jan. 2021 - Present
-- Dual-Degree (BTech & MTech), Department of CSE, Indian Institute of Technology Madras, Tamil Nadu, India, July. 2013 - July. 2019
+== Education
+- PhD, Department of CSE, IIT Hyderabad, Jan 2021 - Present (PMRF Scholar; GPA: 9.47)
+- Dual-Degree (BTech & MTech), Department of CSE, IIT Madras, Jul 2013 - Jul 2019 (Minor: Operations Research; GPA: 8.91)
 
-== Services
-- Reviewer: AAAI (2025,2024), AISTATS 2025, CVPR 2025, NeurIPS 2024, ECCV 2024.
-- Teaching Assistant: Foundations of Machine Learning (Fall 2022), Advanced Topics in ML (Spring 2024).
+== Awards & Service
+- Microsoft India Research PhD Award (2024).
+- Prime Minister's Research Fellowship (PMRF) (2021).
+- Reviewer: TMLR; CVPR 2025 (top reviewer); AISTATS 2025; AAAI 2024/2025; NeurIPS 2024; ECCV 2024; subreviewer for ICML 2023/2024, IJCAI 2023, ICLR 2022/2023, AISTATS 2022.
+- Teaching Assistant: Deep Learning for Vision (Fall 2019, Spring 2021); Deep Learning (Spring 2022); Foundations of Machine Learning (Fall 2022); Advanced Topics in Machine Learning (Spring 2024).
+
